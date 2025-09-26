@@ -1,0 +1,4 @@
+name: simpleluckyblock
+version: '1.0-SNAPSHOT'
+main: xyz.leafing.simpleluckyblock.Simpleluckyblock
+api-version: '1.21'
